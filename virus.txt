@@ -1,0 +1,73 @@
+;================ Start of Scanner Results ==================
+17-08-2020 16:20	C:\ProgramData\OEM\User Experience Improvement Program\BasicInformation_data.zip	Archive contains one or more encrypted files	Action Pending ( Cannot be disinfected )
+17-08-2020 16:21	C:\Users\All Users\OEM\User Experience Improvement Program\BasicInformation_data.zip	Archive contains one or more encrypted files	Action Pending ( Cannot be disinfected )
+17-08-2020 16:12	C:\Program Files\Acer\Acer Quick Access\AcrHttp.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\AcrHttp.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\CommonUtility.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\CommTool.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\CsvHelper.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\Encryption.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\log4net.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\LogDebug.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\SevenZipSharp.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\UEIPLog.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\UEIPPlugin.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\DLLPlugin\BTMonitor.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\DLLPlugin\CommonUtility.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\DLLPlugin\OC_Monitor.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:12	C:\Program Files\Acer\User Experience Improvement Program\Framework\DLLPlugin\SDcard_Monitor.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Acer Collection\AcrHttp.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Amundsen\2.1.16258\SetupCL.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ACCADSUtility.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ACCEvents.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ACCInterfaces.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ACCUIElements.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\AcrHttp.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ADCommonType.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\AgRemotObj.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\BatteryInfoHandler.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\CommLib.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\dBAccess.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\DeviceDiagnoserHandler.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\Diagnostic.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\DiagnosticEvent.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\DiagnosticPlugin.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\FeedbackLibrary.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\GeneralUpdate.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\LogMgr.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\Newtonsoft.Json.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\SysPfMgr.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\SysSwMgr.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\XMLParser.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ACCPlugin\ACCDiagnosticPlg.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ACCPlugin\ACCMySystemPlg.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ACCPlugin\ACCRecoveryPlg.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ACCPlugin\ACCSupportPlg.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ACCPlugin\ACCUpdatePlg.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ADSPlugin\BatteryDevice.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ADSPlugin\EthernetDevice.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ADSPlugin\MobileBroadbandDevice.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\ADSPlugin\WiFiDevice.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:17	C:\Program Files (x86)\Acer\Care Center\Plugin\HardDisk.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:20	C:\ProgramData\OEM\UpgradeTool\CareCenter_v2\AcrHttp.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:20	C:\ProgramData\OEM\UpgradeTool\CareCenter_v2\UpgradeTool.exe	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:20	C:\ProgramData\OEM\UpgradeTool\CareCenter_v2\201972116618353FixpackB\BUnzip\Setup.exe	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:20	C:\ProgramData\OEM\UpgradeTool\Quick_Access_V_2_1\AcrHttp.dll	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:20	C:\ProgramData\OEM\User Experience Improvement Program\UninstallAllPlugins.exe	is a Trojan ( 0056c8ba1 )	Has been removed
+17-08-2020 16:21	C:\Users\All Users\OEM\UpgradeTool\CareCenter_v2\AcrHttp.dll	is a Trojan ( 0056c8ba1 )	File Not Found!
+17-08-2020 16:21	C:\Users\All Users\OEM\UpgradeTool\CareCenter_v2\UpgradeTool.exe	is a Trojan ( 0056c8ba1 )	File Not Found!
+17-08-2020 16:21	C:\Users\All Users\OEM\UpgradeTool\CareCenter_v2\201972116618353FixpackB\BUnzip\Setup.exe	is a Trojan ( 0056c8ba1 )	File Not Found!
+17-08-2020 16:21	C:\Users\All Users\OEM\UpgradeTool\Quick_Access_V_2_1\AcrHttp.dll	is a Trojan ( 0056c8ba1 )	File Not Found!
+17-08-2020 16:21	C:\Users\All Users\OEM\User Experience Improvement Program\UninstallAllPlugins.exe	is a Trojan ( 0056c8ba1 )	File Not Found!
+17-08-2020 16:24	C:\Users\Pooja kholiya\AppData\Local\Microsoft\Edge\User Data\Default\Cache\f_000ce0	is an Exploit ( 04c55f091 )	Quarantined
+17-08-2020 16:24	C:\Users\Pooja kholiya\AppData\Local\Microsoft\Edge\User Data\Default\Cache\f_000cff	is an Exploit ( 04c55f091 )	Quarantined
+17-08-2020 16:24	C:\Users\Pooja kholiya\AppData\Local\Microsoft\Edge\User Data\Default\Cache\f_000d00	is an Exploit ( 04c55f091 )	Quarantined
+
+;------------------- Summary -------------------
+;Files Found             : 402294
+;Files Scanned           : 402011
+;Files Infected          : 61
+;Partition Table Scanned : None
+;Boot Sectors Scanned    : None
+;Issues to be fixed      : 5
+;================ End of Scanner Results ==================
